@@ -1,0 +1,25 @@
+{
+  "author": "liuthx",
+  "dependencies": {},
+  "description": "",
+  "devDependencies": {},
+  "directories": {},
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "liuthx",
+      "email": "137707096@qq.com"
+    }
+  ],
+  "keywords": [
+    "defaultSource",
+    "placeholder"
+  ],
+  "name": "react-native-placeholder-image",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.4"
+}
